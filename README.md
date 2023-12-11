@@ -12,6 +12,8 @@
  🔭 I’m currently working on **Building an E-commerce Database using Flask and PGAdmin**
  🌱 I’m currently learning **Docker, Azure, AWS, Django**
 
+ [Download Resume PDF](Pearl Nwade's SWE CV.pdf)
+
   <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
