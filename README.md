@@ -10,3 +10,16 @@
 <div align="center">
  
  🔭 I’m currently working on **Building an E-commerce Database using Flask and PGAdmin**
+ 🌱 I’m currently learning **Docker, Azure, AWS, Django**
+
+  <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,mysql,flask" /><br>
+</div>
+
+<br/>
+<hr/>
