@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Building an E-commerce Database using Flask and PGAdmin**
+ 🔭 I’m currently working on **Building an E-commerce Database using Django and integrating docker and AWS**
  🌱 I’m currently learning **Docker, Azure, AWS, Django**
 
   📄 [Check out my resume!](Pearl%20Nwade's%20SWE%20CV.pdf)
