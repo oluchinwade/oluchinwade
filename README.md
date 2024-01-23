@@ -10,7 +10,7 @@
 <div align="center">
  
  🔭 I’m currently working on **Building an E-commerce Database using Django and integrating docker and AWS**
- 🌱 I’m currently learning **Docker, Azure, AWS, Java**
+ 🌱 I’m currently learning **Docker, AWS, Java and how to build a fully functional web application(full-stack)**
 
   📄 [Check out my resume!](Pearl%20Nwade's%20SWE%20CV.pdf)
 
